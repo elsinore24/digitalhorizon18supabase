@@ -1,1 +1,1 @@
-# digitalhorizon18supabase
+# digitalhorizons1.1
